@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: todo
-        image: kumarramya/my-web
+        image: kumarramya/myweb-app 
         ports:
         - containerPort: 8000
